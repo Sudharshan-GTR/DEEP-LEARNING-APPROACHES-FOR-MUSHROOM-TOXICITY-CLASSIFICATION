@@ -100,7 +100,7 @@ published. A suggested organization is:
 Mushroom-Toxicity-Classification/
 ├── README.md
 ├── requirements.txt
-├── dataset/                 # Optional: dataset instructions, not necessarily images
+├── dataset/                
 ├── models/
 │   ├── convnext_tiny/
 │   ├── convnext_small/
